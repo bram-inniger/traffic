@@ -22,4 +22,6 @@ Or (if you do not have HTTPie installed)
 
 ## License
 
+MIT. See [LICENSE](LICENSE).
+
 _Copyright (C) 2017 Bram Inniger_
