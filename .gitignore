@@ -1,0 +1,11 @@
+# Global
+*~
+.DS_Store
+
+# IntelliJ
+.idea
+*.iml
+
+# Maven
+/target
+!.mvn/wrapper/maven-wrapper.jar
