@@ -1,4 +1,4 @@
-package be.inniger.traffic;
+package be.inniger.traffic.lights;
 
 import java.util.EnumSet;
 

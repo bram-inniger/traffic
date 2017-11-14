@@ -1,4 +1,4 @@
-package be.inniger.traffic;
+package be.inniger.traffic.lights;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.statemachine.StateMachine;
